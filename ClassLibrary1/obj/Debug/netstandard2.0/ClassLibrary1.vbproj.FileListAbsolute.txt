@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Class1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\USER\source\repos\Class1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\USER\source\repos\Class1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\USER\source\repos\Class1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.vb
+C:\Users\USER\source\repos\Class1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\USER\source\repos\Class1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

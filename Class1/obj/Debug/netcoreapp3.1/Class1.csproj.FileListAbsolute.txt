@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.exe
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.deps.json
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.json
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.dll
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.dll
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\USER\source\repos\Class1\Class1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\USER\source\repos\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csproj.CopyComplete
